@@ -22,7 +22,7 @@ A modern blogging platform built with CodeIgniter 4, Bootstrap 5, and Three.js.
 
 ## Demo
 - Landing page: `http://blogwork/` (local)
-- GitHub: [https://github.com/your-username/BeyondBlogs]
+- GitHub: [https://github.com/BeyondSpace1/BeyondBlogs]
 
 ## Author
-[Your Name] | [Your Email]
+Kumar Sutikshan || kumarsutikshan.1@gmail.com
